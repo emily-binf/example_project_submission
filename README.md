@@ -9,6 +9,9 @@ The objective of this scipt is to mine for protein domain of interest in a large
 Microbial genomes contain a wealth of protein sequence diversity, but analyzing such large datasets can be both computationally intensive and resource-demanding. This script streamlines the process by searching for protein domain of interest, clustering at multiple levels, and nomination. This reduces redundancy while preserving functional and evolutionary diversity. By selecting representatives from diverse families, the workflow ensures that downstream computational and wet-lab analyses focus on the most informative sequences, saving both time and resources. The ability to find sequences from novel taxonomies may increase the potential for discovering proteins with better or more desireable functionality or for new applications. This makes this script useful for exploring protein diversity in large-scale genomic datasets.
 
 ## Workflow 
+
+![alt text]([http://url/to/img.png](https://github.com/emily-binf/example_project_submission/blob/main/figures/wf_fig1.png))
+
 ### HMM Search
 ***Purpose:*** To identify sequences that match specific protein families or patterns in a large sequence database.
 
