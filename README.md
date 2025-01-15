@@ -10,7 +10,7 @@ Microbial genomes contain a wealth of protein sequence diversity, but analyzing 
 
 ## Workflow 
 
-![Workflow Figure](example_project_submission/figures/wf_fig1.png)
+![Workflow Figure](figures/wf_fig1.png)
 
 ### HMM Search
 ***Purpose:*** To identify sequences that match specific protein families or patterns in a large sequence database.
