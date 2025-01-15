@@ -1,5 +1,8 @@
 # Presentation
 ## Objective
+
+*This project is inspired by work I previously conducted at a company. Due to an NDA, I cannot share specific details of the pipeline or data, so this is a recreation with limited computational resources.
+
 The objective of this scipt is to mine for protein domain of interest in a large collection of microbial genomes, derived from both isolates and metagenomic sequences. It aims to extract meaningful insights by reducing redundancy, selecting representative sequences, and clustering proteins at multiple levels to capture diversity. This approach supports the identification of sequences with potential for improved performance or novel taxonomies carrying the protein of interest.
 
 ## Rationale
