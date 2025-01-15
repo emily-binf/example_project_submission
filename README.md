@@ -62,6 +62,16 @@ Downloaded a Cry Toxin domain, Insecticidal Crystal Toxin P42 Toxin10 (PF05431),
 
 2. Number of representative sequences from UCLUST to TreeCluster:
       - There was a significant drop in the number of representative sequences between UCLUST and TreeCluster, from 91 to 8. The threshold for UCLUST was 0.9, and the threshold for TreeCluster was 0.5. This suggests that the threshold for UCLUST created relatively fine-grained clusters, while the threshold calculated for TreeCluster may have been too loose. It could be beneficial to adjust the maximum cap for the threshold for TreeCluster.
+
+##### Phylogenetic Tree 
+![Objective3](figures/phylogenetic_tree_with_clusters.png)
+The different coloring shows the cluster with the square-shaped nodes showing the representative sequences. The nodes colored in black are the singletons. 
+##### Number of Sequences in Clusters
+![Objective3](figures/cluster_bar_chart.png)
+##### Distribution of Cluster Size  
+![Objective3](figures/cluster_size_distribution.png)
+These two figures show that most clusters are very small, consisting of less than 5 sequences with only a few clusters with over 20 sequences. 
+
         
 
 ### What Would I Do Differently or as Next Steps?
